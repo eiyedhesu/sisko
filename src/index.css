@@ -1,0 +1,19 @@
+.slider {
+    margin-bottom: 300px;
+}
+
+.product-list {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: white;
+    margin-top: 20px;
+}
+
+.detail {
+    display: flex;
+    align-items: center;
+
+}
